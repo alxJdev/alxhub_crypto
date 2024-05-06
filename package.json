@@ -1,0 +1,16 @@
+{
+  "name": "alxhub_crypto",
+  "version": "0.0.1",
+  "description": "Crypto Lib for alxhub",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/lib.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
